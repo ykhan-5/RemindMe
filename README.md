@@ -4,6 +4,9 @@
 
 # Expected Stack: 
 ### MongoDB
+Implement triggers based on time inputted, and update time on edit.
 ### Express
+Connect to Mongo
 ### React
+Web App
 ### Node.js
