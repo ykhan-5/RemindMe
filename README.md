@@ -3,7 +3,7 @@
 
 
 # Expected Stack: 
-### M ongoDB
-### E xpress
-### R eact
-### N ode.js
+### MongoDB
+### Express
+### React
+### Node.js
